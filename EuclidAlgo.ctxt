@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=x\ y
+comment0.target=EuclidAlgo(int,\ int)
+comment0.text=\r\n\ Constructor\ for\ class\ EuclidAlgo.\r\n\ \r\n\ @param\ x\ an\ integer\r\n\ @param\ y\ an\ integer\r\n
+comment1.params=x
+comment1.target=void\ setX(int)
+comment2.params=y
+comment2.target=void\ setY(int)
+comment3.params=x\ y
+comment3.target=void\ setGCD(int,\ int)
+comment4.params=x\ y
+comment4.target=int\ GCDCrank(int,\ int)
+comment5.params=
+comment5.target=int\ getX()
+comment5.text=\r\n\ Accessor\ method\ to\ retrieve\ current\ value\ of\ 'x'.\r\n\ \r\n\ @return\ x\ the\ current\ value\ of\ x.\r\n
+comment6.params=
+comment6.target=int\ getY()
+comment6.text=\r\n\ Accessor\ method\ to\ retrieve\ the\ current\ value\ of\ 'y'.\r\n\ \r\n\ @return\ y\ the\ current\ value\ of\ y.\r\n
+comment7.params=
+comment7.target=java.lang.String\ getGCD()
+comment7.text=\r\n\ Accessor\ method\ to\ retrieve\ the\ value\ of\ the\ GCD.\r\n\ \r\n\ @return\ GCD\ the\ greatest\ common\ divisor.\r\n
+numComments=8
