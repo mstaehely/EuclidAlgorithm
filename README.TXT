@@ -1,11 +1,6 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
+Simple implementation of the Euclidean Algorithm for finding greatest common divisor. Note 
+that there is no input verification, so this should not be considered robust.
+https://en.wikipedia.org/wiki/Euclidean_algorithm
 
-PROJECT TITLE: Euclid's Algorithm
-PURPOSE OF PROJECT: A simple script using Euclid's Algorithm. Note, no input verification.
-VERSION or DATE: Autumn 2015
-AUTHORS: Matthew Staehely
-
+Author: Matthew Staehely
+Version: Autumn, 2015
